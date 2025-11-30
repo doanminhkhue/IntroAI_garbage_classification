@@ -1,18 +1,20 @@
 # Cấu trúc thư mục
 
+```text
 AI_Project/
 ├── app/
-│ ├── camera_demo.py # Ứng dụng demo camera offline
-│ └── streamlit_app.py # Ứng dụng web realtime với Streamlit
-├── data/ # Thư mục chứa dataset gốc
-├── dataset/ # Thư mục chứa dữ liệu đã chia train/val/test
+│   ├── camera_demo.py        # Ứng dụng demo camera offline
+│   └── streamlit_app.py      # Ứng dụng web realtime với Streamlit
+├── data/                     # Thư mục chứa dataset gốc
+├── dataset/                  # Thư mục chứa dữ liệu đã chia train/val/test
 ├── scripts/
-│ ├── model/
-│ │ └── model.h5 # Model đã train lưu lại
-│ ├── evaluate.py # Script đánh giá model trên test set
-│ ├── preprocess.py # Script tạo ImageDataGenerator cho train/val/test
-│ └── train.py # Script huấn luyện model
-└── split_data.py # Script chia dữ liệu từ data → dataset
+│   ├── model/
+│   │   └── model.h5          # Model đã train lưu lại
+│   ├── evaluate.py           # Script đánh giá model trên test set
+│   ├── preprocess.py         # Script tạo ImageDataGenerator cho train/val/test
+│   └── train.py              # Script huấn luyện model
+└── split_data.py             # Script chia dữ liệu từ data → dataset
+```
 
 ---
 
