@@ -20,6 +20,8 @@ src/
 
 ## Hướng dẫn tổ chức thư mục
 
+Các file được tải về cần sửa các đường dẫn (file path) nếu có trong code và được tổ chức như sau
+
 1. **`app/`**  
    - Chứa các ứng dụng triển khai mô hình:
      - `camera_demo.py`: demo sử dụng camera offline.
