@@ -27,7 +27,7 @@
 
 > ℹ️ **Lưu ý:** Đây là mẫu chung. Hãy điều chỉnh theo yêu cầu dự án.
 
-### Chương 1: Giới thiệu
+### Chương 1: Giới thiệu đề tài 
 **📝 Tóm tắt dự án**
    - ✨ Tổng quan ngắn gọn về dự án, mục tiêu chính và kết quả nổi bật
 
@@ -55,23 +55,6 @@
 
 **📎 Phụ lục** *(Tùy chọn)*
    - 📎 Kết quả bổ sung, đoạn mã hoặc hướng dẫn sử dụng
-
----
-
-## 📝 Hướng dẫn nộp bài
-
-### 📋 Yêu cầu
-
-- **Định dạng:**  
-   + 🖨️ Báo cáo phải được đánh máy, trình bày rõ ràng và xuất ra định dạng PDF (khuyến nghị dùng LaTeX).  
-   + 🔁 Một bản báo cáo cần lưu trên kho GitHub của dự án, hai bản nộp trên Canvas (một cho giảng viên, một cho trợ giảng), và hai bản in (một cho giảng viên, một cho trợ giảng). Slide trình bày cũng thực hiện tương tự (không cần bản in slides).
-- **Kho lưu trữ:** 📂 Bao gồm báo cáo PDF, slide, toàn bộ mã nguồn và tài liệu liên quan. Nếu vượt quá giới hạn dung lượng của GitHub, có thể tải lên Google Drive hoặc Dropbox và dẫn link trong tài liệu.
-- **Làm việc nhóm:** 🤝 Cần ghi rõ đóng góp của từng thành viên trong nhóm.
-- **Tài liệu hóa mã nguồn:**  
-   + 🧾 Có bình luận giải thích rõ các thuật toán/phần logic phức tạp  
-   + 🧪 Docstring cho hàm/phương thức mô tả tham số, giá trị trả về và mục đích  
-   + 📘 File README cho từng module mã nguồn, hướng dẫn cài đặt và sử dụng  
-   + 📝 Bình luận inline cho các đoạn mã không rõ ràng
 
 ### ✅ Danh sách kiểm tra trước khi nộp
 - [X] ✅ Đánh dấu X vào ô để xác nhận hoàn thành  
