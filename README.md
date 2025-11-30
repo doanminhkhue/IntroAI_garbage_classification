@@ -25,21 +25,15 @@
 
 ## 📑 Tổng quan cấu trúc báo cáo
 
-> ℹ️ **Lưu ý:** Đây là mẫu chung. Hãy điều chỉnh theo yêu cầu dự án.
-
 ### Chương 1: Giới thiệu đề tài 
-**📝 Tóm tắt dự án**
-   - ✨ Tổng quan ngắn gọn về dự án, mục tiêu chính và kết quả nổi bật
+**1. Đặt vấn đề**
+**2. Phương pháp tiếp cận**
+**3. Mục tiêu báo cáo**
+**4. Bố cục báo cáo**
 
-**❓ Bài toán đặt ra**
-   - 📌 Mô tả vấn đề giải quyết và ý nghĩa thực tiễn
-
-### Chương 2: Phương pháp & Triển khai
-**⚙️ Phương pháp**
-   - 🔍 Mô tả cách tiếp cận, cơ sở lý thuyết, thuật toán và dữ liệu sử dụng
-
-**💻 Triển khai**
-   - 🧩 Mô tả hệ thống, công cụ và cấu trúc mã nguồn
+### Chương 2: Cơ sở lý thuyết
+**1. Tổng quan về xử lý ảnh**
+**2. Mạng nơ-ron tích chập (Convolutional Neural Networks - CNN)**
 
 ### Chương 3: Kết quả & Phân tích
 **📊 Kết quả & Thảo luận**
