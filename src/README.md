@@ -1,7 +1,7 @@
 # Cấu trúc thư mục
 
 ```text
-AI_Project/
+src/
 ├── app/
 │   ├── camera_demo.py        # Ứng dụng demo camera offline
 │   └── streamlit_app.py      # Ứng dụng web realtime với Streamlit
