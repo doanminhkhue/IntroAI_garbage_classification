@@ -40,7 +40,3 @@
 
 ---
 
-Nếu muốn, tui có thể viết luôn **phiên bản hình minh họa cây thư mục dạng diagram trực quan** để chèn vào báo cáo PDF/PowerPoint, nhìn là hiểu ngay workflow.  
-
-Muốn tui vẽ luôn khum?
-
