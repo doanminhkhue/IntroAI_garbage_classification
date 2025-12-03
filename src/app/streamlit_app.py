@@ -10,7 +10,7 @@ import time
 # -------------------------
 # 1) Config
 IMG_SIZE = 224  # kích thước ảnh input cho model
-MODEL_PATH = "C:/Users/ASUS/Documents/AI_Project/PJ2/scripts/model/model.h5"
+MODEL_PATH = "../scripts/model/model.h5"
 CLASS_NAMES = ['glass', 'metal', 'organic', 'paper', 'plastic', 'trash']
 
 # -------------------------
@@ -120,3 +120,4 @@ elif option == "Camera real-time":
             time.sleep(0.03)
 
         cap.release()  # giải phóng camera khi dừng
+
